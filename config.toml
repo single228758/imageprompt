@@ -1,0 +1,18 @@
+[basic]
+
+enable = true
+
+
+trigger_word_zh = "/反推"
+
+
+trigger_word_en = "/反推 英文"
+
+
+api_url = "https://imageprompt.org/api/ai/prompts/image"
+
+
+user_state_timeout = 300
+
+
+default_image_model_id = 0 
